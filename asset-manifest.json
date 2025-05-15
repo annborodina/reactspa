@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reactspa/static/css/main.fc7fb782.css",
-    "main.js": "/reactspa/static/js/main.a71cf039.js",
+    "main.js": "/reactspa/static/js/main.d08fe3d4.js",
     "index.html": "/reactspa/index.html",
     "main.fc7fb782.css.map": "/reactspa/static/css/main.fc7fb782.css.map",
-    "main.a71cf039.js.map": "/reactspa/static/js/main.a71cf039.js.map"
+    "main.d08fe3d4.js.map": "/reactspa/static/js/main.d08fe3d4.js.map"
   },
   "entrypoints": [
     "static/css/main.fc7fb782.css",
-    "static/js/main.a71cf039.js"
+    "static/js/main.d08fe3d4.js"
   ]
 }
