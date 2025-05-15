@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/annborodina/reactspa/static/css/main.fc7fb782.css",
-    "main.js": "/annborodina/reactspa/static/js/main.932c990b.js",
-    "index.html": "/annborodina/reactspa/index.html",
-    "main.fc7fb782.css.map": "/annborodina/reactspa/static/css/main.fc7fb782.css.map",
-    "main.932c990b.js.map": "/annborodina/reactspa/static/js/main.932c990b.js.map"
+    "main.css": "/reactspa/static/css/main.fc7fb782.css",
+    "main.js": "/reactspa/static/js/main.932c990b.js",
+    "index.html": "/reactspa/index.html",
+    "main.fc7fb782.css.map": "/reactspa/static/css/main.fc7fb782.css.map",
+    "main.932c990b.js.map": "/reactspa/static/js/main.932c990b.js.map"
   },
   "entrypoints": [
     "static/css/main.fc7fb782.css",
